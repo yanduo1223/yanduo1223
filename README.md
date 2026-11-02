@@ -1,30 +1,5 @@
-## Hi there 👋
-# 你好，我是 Yanduo 👋
-
-计算机专业在读，正在学习 Java、软件测试与 Git 工作流。
-
-## 正在做
-- 数学表达式评分服务（JUnit + JaCoCo）
-- 企业卡报销审批流程
-- 个人主页与学习周记维护
-
-## 技术栈
-Java · JUnit · Maven · Git · SQL
-
-## 联系我
-- 主页：https://yanduo1223.github.io
-
-<!--
-**yanduo1223/yanduo1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#姓名：史梓诺
+专业：计算机科学与技术
+进入实验室的时间：10月7日
+前两阶段的学习总结：进入实验室以来，我顺利完成了前两个阶段的基础学习。第一阶段主要巩固了 C 语言基础知识，熟练掌握了变量、分支、循环、数组、函数等基础语法，能够独立编写简单程序并完成基础调试。第二阶段我进一步规范了代码书写习惯，学习了基本的编程思维与解题思路，熟悉了实验室的学习模式与代码提交流程，编程基础和动手能力相比入门阶段有明显提升。同时我也发现自身存在不足，刷题量较少、算法基础薄弱、解题思路不够灵活，遇到综合性题目容易卡顿，代码熟练度仍需加强。
+本周学习目标：我会坚持日常刷题，夯实语法基础，主动学习基础算法，逐步提升独立解题能力。严格遵守实验室规范，养成良好的代码习惯。合理规划时间，稳步提升个人编程水平，认真完成后续阶段学习任务，积极跟进实验室训练进度，不断提升自我。
